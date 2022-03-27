@@ -58,9 +58,9 @@ func randomFormat() string {
 		// Put your accounts here
 		// "email:pass",
 		// Following are some demo accounts
-		"radhab144@gmail.com:Chakri18".
-"shush2128@gmail.com:chinmun9".
-"sukhap@gmail.com:visu1985#".
+		"radhab144@gmail.com:Chakri18",
+                "shush2128@gmail.com:chinmun9",
+                "sukhap@gmail.com:visu1985#",
 	}
 
 	return formats[rand.Intn(len(formats))]
