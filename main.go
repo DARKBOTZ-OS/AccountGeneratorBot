@@ -61,9 +61,11 @@ func randomFormat() string {
 		"radhab144@gmail.com:Chakri18",
                 "shush2128@gmail.com:chinmun9",
                 "sukhap@gmail.com:visu1985#
-                 "rupesh.tech@gmail.com:rupesh80", "siriparuchurisiri@gmail.com:Aruna@31",
+                 "rupesh.tech@gmail.com:rupesh80",
+                "siriparuchurisiri@gmail.com:Aruna@31",
                  "senthazai.s@gmail.com:flower.143",
-                 "Raghav.online1989@gmail.com:Raghav.online1989", "kesinenieswar11@gmail.com:Honey@1211",
+                 "Raghav.online1989@gmail.com:Raghav.online1989", 
+                 "kesinenieswar11@gmail.com:Honey@1211",
                  "prithwishgiri2010@gmail.com:Dulu@123",
                  "abhishek11.tripathi@gmail.com:gabbudada",
                  "sri18.satya44@gmail.com:Bhavikaraj18b12",
