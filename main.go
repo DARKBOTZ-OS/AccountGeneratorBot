@@ -60,8 +60,8 @@ func randomFormat() string {
 		// Following are some demo accounts
 		"radhab144@gmail.com:Chakri18",
                 "shush2128@gmail.com:chinmun9",
-                "sukhap@gmail.com:visu1985#
-                 "rupesh.tech@gmail.com:rupesh80",
+                "sukhap@gmail.com:visu1985#",
+                "rupesh.tech@gmail.com:rupesh80",
                 "siriparuchurisiri@gmail.com:Aruna@31",
                  "senthazai.s@gmail.com:flower.143",
                  "Raghav.online1989@gmail.com:Raghav.online1989", 
